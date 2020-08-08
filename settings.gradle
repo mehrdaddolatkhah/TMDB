@@ -1,2 +1,6 @@
+include ':buildStr'
+include ':presentation'
+include ':domain'
+include ':data'
 include ':app'
 rootProject.name = "TMDB"
